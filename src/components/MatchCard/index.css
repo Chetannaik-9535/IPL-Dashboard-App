@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.image {
+  width: 200px;
+  height: 250px;
+  margin: 15px;
+  margin-top: 30px;
+}
+
+.date {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.team-name {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  font-style: italic;
+  margin: 20px;
+}
+
+.MatchCard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100%;
+  margin: 20px;
+  border-radius: 15px;
+
+}
